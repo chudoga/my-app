@@ -5,7 +5,7 @@ export default function Home() {
         🎉 欢迎来到我的应用
       </h1>
       <p className="text-xl text-gray-600 dark:text-gray-300">
-        这是一个全瑞特瑞特瑞特热特瑞特人人体有问题也为她为人豆腐干豆腐干地方体新的开始
+        这是一个全新的开始
       </p>
     </div>
   );
